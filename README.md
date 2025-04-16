@@ -1,4 +1,4 @@
 # Lurgit
-![image](https://github.com/user-attachments/assets/a3db893c-4592-4b80-860f-bd4f2bce92c4)
+![image](https://github.com/user-attachments/assets/e5d6eac7-2964-4467-bc4a-a1b551d98eac)
 
 Lurgit Dice Game in simple app with singleplayer and multiplayer support. 
